@@ -4,7 +4,7 @@
 
 🎓 Além de ser participante da [Residência Tecnológica - Onboard](https://residencia.portodigital.org/) pelo [Porto Digital](https://www.portodigital.org/noticias/conheca-o-porto-digital-o-maior-parque-tecnologico-urbano-e-aberto-do-brasil)
 
-📚 Realizo cursos e formações extracurriculares na área de tecnologia e evidencio pelas redes a rotina de aprendizagem.
+📚 Realizo cursos e formações extracurriculares na área de tecnologia e {tento} evidenciar pelas redes a rotina de aprendizagem.
 
 #
 
