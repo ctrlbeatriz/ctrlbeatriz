@@ -29,7 +29,7 @@
 <div>
   <br>
     <a href="https://github.com/ctrlbeatriz"/>
-    <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizwth&layout=compact"
+    <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlbeatriz&layout=compact"
     </div>
 
   
