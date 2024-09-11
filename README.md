@@ -20,15 +20,15 @@
 #
   
    <div>
-     <a href="https://instagram.com/albtriz"  target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/anabeatrizbzp/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https://instagram.com/anabltriz"  target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/anabeatrizbl/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
 
 <div>
   <br>
-    <a href="https://github.com/beatrizwth"/>
+    <a href="https://github.com/ctrlbeatriz"/>
     <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizwth&layout=compact"
     </div>
 
