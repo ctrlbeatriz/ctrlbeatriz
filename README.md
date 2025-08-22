@@ -1,4 +1,4 @@
-## We haven't officially met. I'm Bia.
+## We haven't officially met. I'm Beatriz.
 
 🧩 Graduanda em **Análise e Desenvolvimento de Sistemas** via [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital).
 
